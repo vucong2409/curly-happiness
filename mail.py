@@ -117,3 +117,5 @@ recv3 = clientSocket.recv(1024)
 log_file.write(recv3.decode('utf-8'))
 
 print("Send mail successfully!")
+
+log_file.close()
