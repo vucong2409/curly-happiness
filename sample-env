@@ -1,0 +1,8 @@
+#Your mailinfo
+MAIL_USER=
+MAIL_PASS=
+YOUR_MAIL_ADDRESS=
+
+#Mail server Info
+MAIL_SERVER=
+TIMEOUT=
